@@ -28,11 +28,12 @@ The superstore is experiencing high sales volume but inconsistent profitability 
 
 ## 📊 Sales Analysis Dashboard
 
-<h2 align="center">📊 Sales Analysis Dashboard</h2>
+## 📊 Sales Analysis Dashboard
 
 <p align="center">
-  <img src="images/sales_dashboard.png" width="900">
+  <img src="./analysis_dashboard_.png" alt="Sales Analysis Dashboard" width="900">
 </p>
+
 
 
 
