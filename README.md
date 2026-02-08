@@ -52,16 +52,29 @@ The analysis reveals that while Superstore has strong revenue streams, it suffer
 ***9- Recommendations***
 
 **Audit furniture pricing & logistics:** since furniture sales are high but profits are flat (purple line), high shipping costs or excessive discounting are likely eating the margins.
-    Action: review shipping vendors for heavy items (chairs/tables) or reduce discounts on furniture.
+
+Action: review shipping vendors for heavy items (chairs/tables) or reduce discounts on furniture.
 
 **Inventory stockpiling for Q4:** the "sales by month" chart shows a massive spike in Nov/Dec .
-    Action: ensure maximum stock of "phones" and "chairs" (top sub-categories) by October to prevent      stockouts during the holiday rush.
+
+Action: ensure maximum stock of "phones" and "chairs" (top sub-categories) by October to prevent      stockouts during the holiday rush.
 
 **Regional Marketing Strategy:** California alone brings in nearly half a million. 
+
    Action: Double down on advertising in the West Region to maximize the stronghold, while investigating why the "South" region (smallest slice in Pie Chart) is underperforming.
 
 **Product Bundle Strategy:** "Phones" are the #1 seller and "Technology" is the most profitable category.
+
 Action: Create bundles pairing high-margin Tech items with lower-performing items to boost overall basket profitability.
+
+***Author***
+
+Aniket Rawat
+
+Github - 
+
+Linkedin - 
+
 
 
 
