@@ -1,4 +1,4 @@
-<img width="4010" height="473" alt="image" src="https://github.com/user-attachments/assets/63723da3-e3b4-456b-a4b8-bf1733c19b7f" /># excel_sample_store_analysis
+## excel_sample_store_analysis
 
 ***1- Project Overview***
 
