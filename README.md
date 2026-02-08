@@ -8,7 +8,7 @@ This project analyzes the sales and profitability data of "Superstore," a fictio
 
 The primary objective of this project is to analyze the historical sales data of the Superstore to identify the drivers of profitability and inefficiency.
 
-***3- Dataset_Used*** :- 
+***3- Dataset_Used***   :-  [Sample Store Dataset (CSV)](https://github.com/Aniket-Rawat071199/excel_sample_store_analysis/blob/main/dataset_sample_store.csv)
 
 ***4- Dataset_Description***
 
@@ -71,9 +71,11 @@ Action: Create bundles pairing high-margin Tech items with lower-performing item
 
 Aniket Rawat
 
-Github - 
+Gmail - arvianshrwt1999@gmail.com
 
-Linkedin - 
+Github - https://github.com/Aniket-Rawat071199 
+
+Linkedin - www.linkedin.com/in/aniket-rawat-44a6b63aa  
 
 
 
